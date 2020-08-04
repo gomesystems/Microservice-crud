@@ -1,0 +1,3 @@
+C:\Users\Carlos Gomes\source\repos\Microservico_Crud\obj\Release\netcoreapp3.1\Microservico_Crud.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Carlos Gomes\source\repos\Microservico_Crud\obj\Release\netcoreapp3.1\Microservico_Crud.AssemblyInfoInputs.cache
+C:\Users\Carlos Gomes\source\repos\Microservico_Crud\obj\Release\netcoreapp3.1\Microservico_Crud.AssemblyInfo.cs
